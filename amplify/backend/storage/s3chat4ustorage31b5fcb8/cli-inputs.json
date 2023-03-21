@@ -1,0 +1,12 @@
+{
+  "resourceName": "s3chat4ustorage31b5fcb8",
+  "bucketName": "chat4u-storage-31b5fcb8",
+  "policyUUID": "87222c3e",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "READ",
+    "CREATE_AND_UPDATE",
+    "DELETE"
+  ]
+}
